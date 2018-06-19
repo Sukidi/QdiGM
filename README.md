@@ -1,0 +1,2 @@
+# QdiGM
+aplikasi game
